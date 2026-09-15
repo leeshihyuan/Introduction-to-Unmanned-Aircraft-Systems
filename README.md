@@ -2,7 +2,7 @@
 # Introduction to Unmanned Aircraft Systems
 
 
-![無人機系統導論](https://github.com/leeshihyuan/Introduction-to-Unmanned-Aircraft-Systems/blob/main/Introduction-to-Unmanned-Aircraft-Systems_Cover-Formosan-Sika-Deer.png "無人機系統導論")
+![無人機系統導論](https://github.com/leeshihyuan/Introduction-to-Unmanned-Aircraft-Systems/blob/main/Introduction-to-Unmanned-Aircraft-Systems_Cover-Formosan-Sika-Deer-Grass.png "無人機系統導論")
 
 
 # 《無人機系統導論》
@@ -312,3 +312,5 @@ A 數學與物理先備｜B 電子電路基礎｜C Python 與 ROS 2 入門｜D �
 **編著｜李世淵（機器人叫獸）**
 **助教｜李天宇、李宇晴**
 台灣自編大學教科書系列　@prof　https://page.line.me/prof
+
+![無人機系統導論](https://github.com/leeshihyuan/Introduction-to-Unmanned-Aircraft-Systems/blob/main/Introduction-to-Unmanned-Aircraft-Systems_Cover-Formosan-Sika-Deer.png "無人機系統導論")
