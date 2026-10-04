@@ -7,8 +7,7 @@
 [無人機系統導論_合訂本_C01版](https://github.com/leeshihyuan/Introduction-to-Unmanned-Aircraft-Systems/blob/main/%E7%84%A1%E4%BA%BA%E6%A9%9F%E7%B3%BB%E7%B5%B1%E5%B0%8E%E8%AB%96_%E5%90%88%E8%A8%82%E6%9C%AC_C01%E7%89%88.pdf "無人機系統導論_合訂本_C01版
 ")
 
-[無人機系統導論_合訂本_C01版](https://github.com/leeshihyuan/Introduction-to-Unmanned-Aircraft-Systems/blob/main/%E7%84%A1%E4%BA%BA%E6%A9%9F%E7%B3%BB%E7%B5%B1%E5%B0%8E%E8%AB%96_%E5%90%88%E8%A8%82%E6%9C%AC_C01%E7%89%88.pdf "無人機系統導論_合訂本_C01版
-")
+[無人機系統導論_第42章_台灣產業鏈_C01版](https://github.com/leeshihyuan/Introduction-to-Unmanned-Aircraft-Systems/blob/main/%E7%84%A1%E4%BA%BA%E6%A9%9F%E7%B3%BB%E7%B5%B1%E5%B0%8E%E8%AB%96_%E7%AC%AC42%E7%AB%A0_%E5%8F%B0%E7%81%A3%E7%94%A2%E6%A5%AD%E9%8F%88_C01%E7%89%88.pdf "無人機系統導論_第42章_台灣產業鏈_C01版")
 
 
 [無人機系統導論導論_導讀篇_C01版](https://github.com/leeshihyuan/Introduction-to-Unmanned-Aircraft-Systems/blob/main/%E7%84%A1%E4%BA%BA%E6%A9%9F%E7%B3%BB%E7%B5%B1%E5%B0%8E%E8%AB%96_%E5%B0%8E%E8%AE%80%E7%AF%87_C01%E7%89%88.pdf "無人機系統導論_導讀篇_C01版")
